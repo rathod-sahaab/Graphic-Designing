@@ -1,2 +1,2 @@
-# Graphics
-Images/Vedio Projects made by me
+# Graphics-Designing
+Images/Video Projects made by me
